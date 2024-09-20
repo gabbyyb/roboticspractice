@@ -22,5 +22,5 @@ public class Car {
         Car tesla = new Car(4, "purple", 10, "Mercedes Benz");
         tesla.printInfo();
     }
-    //tewst
+    
 }
